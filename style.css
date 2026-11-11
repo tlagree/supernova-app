@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; }
+body { font: 17px/1.55 system-ui, -apple-system, sans-serif; max-width: 38rem; margin: 3rem auto; padding: 0 1rem; }
+h1 { font-size: 1.6rem; margin-bottom: .2rem; }
+.sub { opacity: .7; margin-top: 0; }
+a { color: inherit; }
+footer { margin-top: 3rem; font-size: .9rem; opacity: .7; }
